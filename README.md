@@ -5,14 +5,11 @@
   I'm an enthusiastic Python, Django, and React developer with 4 years of expertise in developing dynamic and scalable web applications. Currently, I'm excelling as a freelancer, turning client visions into reality with clean code and innovative solutions.
 </h3>
 
-<img align="right" alt="coding" width="500" height="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<img align="left" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlrMTkwZjBkZmk2dnFjZ2c1YnRycDk2ejkwb3Voc243b2tic3M4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp">
-
-
+<p align="center">
+  <img alt="banner" width="100%" src="https://media.licdn.com/dms/image/D4D16AQEU6dLkJVTiyw/profile-displaybackgroundimage-shrink_350_1400/0/1719073348545?e=1724284800&v=beta&t=xmYMDwYKCZq0mfCTIUaC4E51OTibbTPepJ3XTU0zsC8">
+</p>
 
 <hr/>
-
-<br/><br/><br/>
 
 - 🌱 I’m currently learning **Python, Django, React, Flask**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://coder-shahid.netlify.app/)
@@ -22,7 +19,7 @@
 - 📄 Know about my experiences [Resume](https://coder-shahid.netlify.app/)
 - ⚡ Fun fact **I think I am funny.**
 
-
+<hr/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
