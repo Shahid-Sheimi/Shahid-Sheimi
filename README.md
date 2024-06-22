@@ -1,5 +1,5 @@
 
-<img  alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D16AQEU6dLkJVTiyw/profile-displaybackgroundimage-shrink_350_1400/0/1719073348545?e=1724284800&v=beta&t=xmYMDwYKCZq0mfCTIUaC4E51OTibbTPepJ3XTU0zsC8">
+<img  alt="coding" width="1400" height = "500" src="https://media.licdn.com/dms/image/D4D16AQEU6dLkJVTiyw/profile-displaybackgroundimage-shrink_350_1400/0/1719073348545?e=1724284800&v=beta&t=xmYMDwYKCZq0mfCTIUaC4E51OTibbTPepJ3XTU0zsC8">
 
 <h1 align="center">Hi 👋, I'm Shahid Hussain</h1>
 <h3 align="center">
@@ -7,10 +7,8 @@
 </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left">
-  <iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" frameborder="0" class="giphy-embed"></iframe>
-  <p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>
-</p>
+<img align="left" alt="coding" width="400" src="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">
+
 
 
 
