@@ -14,13 +14,7 @@
 <br/><br/><br/>
 <br/><br/><br/>
 <br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
-<br/><br/><br/>
+
 <hr/>
 - 🌱 I’m currently learning **Django,React,Flask**
 
