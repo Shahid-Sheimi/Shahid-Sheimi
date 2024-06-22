@@ -1,4 +1,3 @@
-![logo](https://github.com/Shahid-Sheimi/Shahid-Sheimi/blob/main/2.png)
 
 <h1 align="center">Hi 👋, I'm Shahid Hussain</h1>
 <h3 align="center">I'm a passionate Python, Django, and React developer with 4 years of experience in crafting dynamic and scalable web applications. Currently, I'm thriving as a freelancer, helping clients bring their visions to life through clean code and innovative solutions.</h3>
