@@ -1,8 +1,10 @@
-<img alt="coding" width="1400" height="300" src="https://media.licdn.com/dms/image/D4D16AQEU6dLkJVTiyw/profile-displaybackgroundimage-shrink_350_1400/0/1719073348545?e=1724284800&v=beta&t=xmYMDwYKCZq0mfCTIUaC4E51OTibbTPepJ3XTU0zsC8">
+
 
 <h1 align="center">Hi 👋, I'm Shahid Hussain</h1>
-<h3 align="center">
-  I'm an enthusiastic Python, Django, and React developer with 4 years of expertise in developing dynamic and scalable web applications. Currently, I'm excelling as a freelancer, turning client visions into reality with clean code and innovative solutions.
+<h3 style="color: #336699; font-weight: bold;"></h3>
+
+<p>Hello there! I specialize in Python, Django, and React development, boasting 4 years of experience crafting dynamic and scalable web applications. As a dedicated freelancer, I thrive on transforming client ideas into tangible solutions through meticulous coding and innovative approaches.</p>
+
 </h3>
 
 <p align="center">
