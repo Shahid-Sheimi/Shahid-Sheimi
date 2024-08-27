@@ -11,7 +11,7 @@
 
 <hr/>
 
-- 🌱 I’m currently learning **Python, Django, React, Flask**
+- 🌱 I’m currently learning **Python, Django, Artificial Intelligence, Flask**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://coder-shahid.netlify.app/)
 - 📝 I regularly write articles on [My Blog](https://shahid-sheimi.github.io/My_Portfolio/)
 - 💬 Ask me about **Python, Django, React, Postgres, and AWS**
