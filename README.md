@@ -2,12 +2,10 @@
 
 <h1 align="center" style="color: #2c3e50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">Hi 👋, I'm Shahid Hussain</h1>
 
-<p align="center" style="font-size: 1.2em; color: #34495e;">Welcome to my profile! I specialize in <span style="color: #3498db; font-weight: bold;">AI Focuse Python</span>, <span style="color: #3498db; font-weight: bold;">Django</span>, and <span style="color: #3498db; font-weight: bold;">React</span> development, with experice in agentic ai experice usung n8n with 4+ years of experience building dynamic and scalable web applications. As a passionate freelancer, I excel in translating client visions into reality through clean code and innovative solutions.</p>
+<p align="center" style="font-size: 1.2em; color: #34495e;">Welcome to my profile! I specialize in <span style="color: #3498db; font-weight: bold;">AI Focuse Python</span>, <span style="color: #3498db; font-weight: bold;">Django</span>, and <span style="color: #3498db; font-weight: bold;">React</span> development, with experice in agentic ai experice using n8n with 4+ years of experience building dynamic and scalable web applications. As a passionate freelancer, I excel in translating client visions into reality through clean code and innovative solutions.</p>
 
 
-<p align="center">
-  <img alt="banner" width="100%" src="https://media.licdn.com/dms/image/D4D16AQEU6dLkJVTiyw/profile-displaybackgroundimage-shrink_350_1400/0/1719073348545?e=1724284800&v=beta&t=xmYMDwYKCZq0mfCTIUaC4E51OTibbTPepJ3XTU0zsC8">
-</p>
+
 
 <hr/>
 
