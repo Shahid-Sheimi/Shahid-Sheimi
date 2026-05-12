@@ -42,36 +42,103 @@ I specialize in Python, Django, FastAPI, AI/LLM systems, automation workflows, R
 
 <hr/>
 
-🛠 Languages & Tools
-<p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin:10px;"/></a>
-  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" style="margin:10px;"/></a>
-</p>
-<hr/>
+<!-- AI / GenAI / LLM -->
 
-<hr/>
+<a href="https://openai.com/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="openai" width="45" height="45"/>
+</a>
+
+<a href="https://www.langchain.com/" target="_blank">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="langchain" width="45" height="45"/>
+</a>
+
+<a href="https://www.langchain.com/langgraph" target="_blank">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" alt="langgraph" width="45" height="45"/>
+</a>
+
+<a href="https://www.crewai.com/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" alt="crewai" width="45" height="45"/>
+</a>
+
+<a href="https://www.llamaindex.ai/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/108111430?s=200&v=4" alt="llamaindex" width="45" height="45"/>
+</a>
+
+<a href="https://huggingface.co/" target="_blank">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="45" height="45"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
+</a>
+
+<a href="https://ai.google.dev/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/google_ai/google_ai-icon.svg" alt="gemini" width="45" height="45"/>
+</a>
+
+<a href="https://www.anthropic.com/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="claude" width="45" height="45"/>
+</a>
+
+<!-- Backend -->
+
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="45" height="45"/>
+</a>
+
+<a href="https://graphql.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="45" height="45"/>
+</a>
+
+<a href="https://socket.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="websocket" width="45" height="45"/>
+</a>
+
+<a href="https://celeryq.dev/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/51960879?s=200&v=4" alt="celery" width="45" height="45"/>
+</a>
+
+<a href="https://rabbitmq.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="45" height="45"/>
+</a>
+
+<!-- Vector Databases -->
+
+<a href="https://www.pinecone.io/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="pinecone" width="45" height="45"/>
+</a>
+
+<a href="https://faiss.ai/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/26328913?s=200&v=4" alt="faiss" width="45" height="45"/>
+</a>
+
+<a href="https://weaviate.io/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/37705494?s=200&v=4" alt="weaviate" width="45" height="45"/>
+</a>
+
+<a href="https://www.trychroma.com/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/104678605?s=200&v=4" alt="chromadb" width="45" height="45"/>
+</a>
+
+<!-- Automation -->
+
+<a href="https://n8n.io/" target="_blank">
+  <img src="https://n8n.io/favicon.ico" alt="n8n" width="45" height="45"/>
+</a>
+
+<!-- Cloud / DevOps -->
+
+<a href="https://kubernetes.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
+</a>
+
+<a href="https://github.com/features/actions" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="github-actions" width="45" height="45"/>
+</a>
+
+<a href="https://cloud.google.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/>
+</a>
 
 ## 📊 GitHub Stats
 
@@ -88,6 +155,7 @@ I specialize in Python, Django, FastAPI, AI/LLM systems, automation workflows, R
 </p>
 
 <hr/>
+
 
 ## 🤝 Connect with me
 <p align="left">
